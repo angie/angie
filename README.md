@@ -1,4 +1,4 @@
-## Hi there 👋
+## hiya
 
 <!--
 **angie/angie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm going to TRY to build this out soon 😏. In the meantime, check my AI_POLICY.md.
