@@ -37,6 +37,7 @@ These pieces shaped my thinking:
 - [**The five stages of losing our craft**](https://andrewmurphy.io/blog/the-five-stages-of-losing-our-craft) by Andrew Murphy.
 - [**The Next Two Years of Software Engineering**](https://addyosmani.com/blog/next-two-years/) by Addy Osmani — concrete guidance on what junior and senior developers should actually be doing to adapt.
 - [**Outcome Engineering Manifesto**](https://o16g.com/manifesto/) by Cory Ondrejka — the operational vision for how development work changes when implementation is cheap.
+- [**The machines are fine. I'm worried about us**](https://ergosphere.blog/posts/the-machines-are-fine/). "The real threat is a slow, comfortable drift toward not understanding what you're doing." A long read, but a great one. 
 
 ---
 
