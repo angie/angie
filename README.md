@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm going to TRY to build this out soon 😏. In the meantime, check my [AI_POLICY.md](/AI_POLICY.md).
+- check my [AI_POLICY.md](/AI_POLICY.md)
+- and [angie.io](https://angie.io) coz it's got rainbow text on it
