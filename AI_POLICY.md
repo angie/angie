@@ -2,7 +2,7 @@
 
 ## How I use AI
 
-I use AI tools daily for coding, research, and automation. I have [an agentic setup](https://github.com/angie/agentic-setup) that I build in the open.
+I use AI tools for coding. I have [an agentic setup](https://github.com/angie/agentic-setup) that I build in the open.
 
 What I ship is my responsibility. AI can generate the code much quicker (and, let's be real, mostly at a higher quality) than I can, but I own the outcome. If it breaks, that's on me, not the model. I must review and understand anything that goes out as client work.
 
@@ -37,7 +37,7 @@ These pieces shaped my thinking:
 - [**The five stages of losing our craft**](https://andrewmurphy.io/blog/the-five-stages-of-losing-our-craft) by Andrew Murphy.
 - [**The Next Two Years of Software Engineering**](https://addyosmani.com/blog/next-two-years/) by Addy Osmani — concrete guidance on what junior and senior developers should actually be doing to adapt.
 - [**Outcome Engineering Manifesto**](https://o16g.com/manifesto/) by Cory Ondrejka — the operational vision for how development work changes when implementation is cheap.
-- [**The machines are fine. I'm worried about us**](https://ergosphere.blog/posts/the-machines-are-fine/). "The real threat is a slow, comfortable drift toward not understanding what you're doing." A long read, but a great one. 
+- [**The machines are fine. I'm worried about us**](https://ergosphere.blog/posts/the-machines-are-fine/). "The real threat is a slow, comfortable drift toward not understanding what you're doing." A long read, but a good one. 
 
 ---
 
